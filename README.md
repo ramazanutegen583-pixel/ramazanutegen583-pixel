@@ -25,8 +25,8 @@ Building practical web applications with **Angular**, **FastAPI**, and **Postgre
 
 ### Toolkit
 
-**Frontend:** Angular · TypeScript · RxJS · Angular CDK  
-**Backend:** Python · FastAPI · Pydantic · SQLAlchemy · OAuth2/JWT  
+**Frontend:** Angular · TypeScript · RxJS · Angular CDK<br>
+**Backend:** Python · FastAPI · Pydantic · SQLAlchemy · OAuth2/JWT<br>
 **Data & tools:** PostgreSQL · SQLite · Alembic · Docker · GitHub Actions · Playwright
 
 <div align="center">
